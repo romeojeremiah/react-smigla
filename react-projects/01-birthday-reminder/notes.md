@@ -1,0 +1,3 @@
+-   can just drag and drop folders from VSC file explorer into the terminal
+-   can immediately run both npm install and npm start with &&
+-   can immediately set up export default for data without naming it (i.e export default [] ). This means you do not have to wait to include [export default Component] at the end of the file. Cannot do this for named defaults.
