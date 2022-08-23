@@ -111,7 +111,8 @@ ReactDom.render(<Greeting />, document.getElementById("root"));
 -   React events can be found here: https://reactjs.org/docs/events.html
 -   events can be passed in as a reference or inline (i.e. onClick={()=>console.log(title)})
 -   ACTION: Add a button to the Book component with a click event that alert's 'hello world'
--   In more complex scenarios, if you must pass in values to an inline function, the pattern is to set up an arrow function that then invokes the function
+-   **In more complex scenarios, if you must pass in values to an inline function, the pattern is to set up an arrow function that then invokes the function**
+-   to get access to the event argument, add it the function parameter
 
 ### 32. Import and Export Statements
 

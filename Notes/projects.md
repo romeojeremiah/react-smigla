@@ -7,3 +7,8 @@
 -   setup a fetchTours async function
     -   wrap in try-catch
 -   use useEffect to invoke the fetchTours function
+
+### Reviews Project
+
+-   Uses React Icons (library of react icons)
+-   FaChevronLeft, FaChevronRight, FaQuoteRight -> fa library
